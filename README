@@ -1,0 +1,3 @@
+Android 5 hard locks on multicastSocket.joinGroup()
+
+See https://code.google.com/p/android/issues/detail?id=77749
